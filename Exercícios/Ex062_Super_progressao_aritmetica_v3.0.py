@@ -20,9 +20,3 @@ print(f'Progressão finalizada com {total} termos mostrados.')
 
 
 
-
-#while count <= 10:
-#    print(f'{termo} - ', end='')
-#    termo += razao
-#    count += 1
-#    while
