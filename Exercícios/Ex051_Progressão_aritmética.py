@@ -4,7 +4,7 @@
 primeiro = (int(input('Primeiro termo: ')))
 razao = (int(input('Razão: ')))
 pa = primeiro + (10 - 1) * razao
-for c in range(primeiro, pa+ razao, razao):
+for c in range(primeiro, pa + razao, razao):
     print(f'{c}', end='-')
 print('Acabou')
 
